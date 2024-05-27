@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "6654b01c74ee7ede4ea848dc"
+  },
+  "Nome": "João",
+  "Cliente VIP": 1,
+  "Email": "joao@email.com",
+  "telefone": [
+    "9999-1111, 8888-1111"
+  ],
+  "Endereço": {
+    "rua": "Rua Um",
+    "numero": "1000",
+    "complemento": "Apto 1 Bloco 1",
+    "cidade": "São Paulo",
+    "estado": "SP"
+  },
+  "Compras": [
+    {
+      "nome do produto": "notebook",
+      "preco": "R$ 5000,00",
+      "quantidade": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6654b06374ee7ede4ea848de"
+  },
+  "Nome": "Marcos",
+  "Cliente VIP": 0,
+  "Email": "",
+  "telefone": [
+    "9999-2222"
+  ],
+  "Endereço": {
+    "rua": "Rua Dois",
+    "numero": "4000",
+    "complemento": "",
+    "cidade": "Campinas",
+    "estado": "SP"
+  },
+  "Compras": [
+    {
+      "nome do produto": "Caderno",
+      "preco": "R$ 20,00",
+      "quantidade": 1
+    },
+    {
+      "nome do produto": "Caneta",
+      "preco": "R$ 3,00",
+      "quantidade": 5
+    },
+    {
+      "nome do produto": "Borracha",
+      "preco": "R$ 2,00",
+      "quantidade": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6654b09674ee7ede4ea848e0"
+  },
+  "Nome": "Maria",
+  "Cliente VIP": 1,
+  "Email": "maria@email.com",
+  "telefone": [
+    "9999-3333",
+    "8888-3333",
+    "9988-3000"
+  ],
+  "Endereço": {
+    "rua": "Rua Três",
+    "numero": "3000",
+    "complemento": "",
+    "cidade": "Londrina",
+    "estado": "PR"
+  },
+  "Compras": [
+    {
+      "nome do produto": "Tablet",
+      "preco": "R$ 2500,00",
+      "quantidade": 1
+    },
+    {
+      "nome do produto": "Capa para tablet",
+      "preco": "R$ 50,00",
+      "quantidade": 1
+    }
+  ]
+}]
